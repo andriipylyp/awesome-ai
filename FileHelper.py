@@ -1,4 +1,4 @@
-from IFileHelper import IFileHelper
+from include.IFileHelper import IFileHelper
 import matplotlib.image as img
 import os.path as p
 class FileHelper(IFileHelper):
