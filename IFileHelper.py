@@ -5,5 +5,5 @@ class IFileHelper(object):
     def LoadImage(self, file_name):
         raise Exception("NotImplementedException")
 
-    def SaveMatrix(self, file_name):
+    def SaveMatrix(self, file_name, matrix):
         raise Exception("NotImplementedException")
