@@ -1,5 +1,5 @@
-class my_class(object):
-    pass
+class kiaf(object):
+    
 
 
 
