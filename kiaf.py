@@ -1,5 +1,5 @@
 class kiaf(object):
-    
+    pass
 
 
 
